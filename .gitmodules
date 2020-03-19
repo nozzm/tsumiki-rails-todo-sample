@@ -1,0 +1,3 @@
+[submodule "app/assets/javascripts/tsumiki"]
+	path = app/assets/javascripts/tsumiki
+	url = git@github.com:nozzm/tsumiki.git
